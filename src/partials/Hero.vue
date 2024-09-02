@@ -45,7 +45,7 @@ import Stats from './Stats.vue'
       <!-- Image -->
       <div
         class="max-w-6xl mx-auto px-4 sm:px-6 flex justify-center pb-12 md:pb-20 relative before:absolute before:-top-12 before:w-96 before:h-96 before:bg-zinc-900 before:opacity-[.15] before:rounded-full before:blur-3xl before:-z-10">
-        <img class="rounded-lg shadow-2xl shadow-violet-200" src="/images/SEO-Hero.webp" width="1104" height="620" alt="Hero">
+        <img class="rounded-lg shadow-2xl shadow-violet-200" src="/images/Cover.webp" width="1104" height="620" alt="Hero">
       </div>
 
       <!-- Stats -->
