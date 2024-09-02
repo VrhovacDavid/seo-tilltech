@@ -23,7 +23,7 @@ const prices = [
   {
     contacts: '60%',
     plans: {
-      essential: '500',
+      essential: '495',
       premium: '550',
       enterprise: '590'
     }
@@ -189,7 +189,7 @@ const faqs = [
                 </div>
                 <div class="mt-8">
                   <a class="btn text-zinc-100 bg-gradient-to-r from-zinc-700 to-zinc-900 hover:from-zinc-900 hover:to-zinc-900 w-full shadow"
-                    href="https://buy.stripe.com/8wM29zbA64WX8r69AN">
+                    href="https://buy.stripe.com/14k01r9rY4WX6iYdR6">
                     Jetzt Starten
                   </a>
                 </div>
