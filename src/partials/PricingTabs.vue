@@ -71,7 +71,7 @@ const faqs = [
   {
     "title": "Welche Dienstleistungen bietet TillTech an?",
     "text": "TillTech bietet ein umfassendes Spektrum an SEO-Dienstleistungen, sowohl in der Schweiz als auch international. Unsere Services umfassen Keyword-Recherche, technische SEO-Optimierung, On- und Off-Page-Optimierung, Content-Erstellung sowie maßgeschneiderte lokale SEO-Strategien.",
-    "active": false
+    "active": true
   },
   {
     "title": "Für welche Unternehmen ist die Zusammenarbeit mit einer SEO-Agentur sinnvoll?",
@@ -86,7 +86,7 @@ const faqs = [
   {
     "title": "Worauf sollte man bei der Auswahl einer SEO-Agentur achten?",
     "text": "Ein entscheidender Punkt, insbesondere in der Schweiz, ist die Mehrsprachigkeit. Bei TillTech sprechen wir neben Deutsch auch Italienisch, Französisch und Englisch, was es uns ermöglicht, Ihre Zielgruppen in den verschiedenen Landesteilen gezielt anzusprechen. Wichtig ist auch, dass die Agentur ein ganzheitliches Leistungsspektrum bietet – von der technischen SEO über Content-Erstellung bis hin zu Off-Page-Strategien. Wir bei TillTech kombinieren technisches Know-how mit innovativen SEO-Ansätzen, um sicherzustellen, dass Ihre Webseite nicht nur gut funktioniert, sondern auch in den Suchergebnissen heraussticht. Achten Sie darauf, dass Ihre Agentur auf dem neuesten Stand ist und aktuelle Trends wie AI-basierte Suche (KI-Suche) aktiv in ihre Strategien einbindet.",
-    "active": true
+    "active": false
   },
   {
     "title": "Wie sieht der Prozess aus?",

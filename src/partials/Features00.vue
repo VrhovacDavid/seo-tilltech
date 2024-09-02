@@ -52,7 +52,7 @@ const tab = ref('1')
                                 leave-from-class="opacity-100 translate-x-0" leave-to-class="opacity-0 -translate-x-8">
                                 <div class="w-full" v-show="tab === '1'">
                                     <div>
-                                        <img class="lg:max-w-none mx-auto rounded-lg shadow-2xl"
+                                        <img class="lg:max-w-none mx-auto rounded-lg shadow-2xl shadow-violet-200"
                                             src="/images/St.Gallen.webp" width="800" height="620" alt="Carousel 01" />
                                     </div>
                                 </div>
@@ -61,7 +61,7 @@ const tab = ref('1')
 
                         </div>
                         <!-- Gear illustration -->
-                        <img class="absolute left-0 bottom-0 -translate-x-1/2 translate-y-1/3 mix-blend-exclusion max-lg:w-32"
+                        <img class="absolute left-0 bottom-0 -translate-x-1/2 translate-y-1/3 mix-blend-exclusion max-lg:w-32 "
                             src="/images/features-illustration.png" alt="Features 02 illustration" width="173"
                             height="167" aria-hidden="true">
                     </div>

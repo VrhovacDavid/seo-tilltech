@@ -22,7 +22,7 @@
 
               </li>
               <li class="ml-1">
-                <a href ="https://calendly.com/tilltech/kostenloses-seo-gesprach" class="btn-sm text-zinc-100 bg-zinc-900 hover:bg-zinc-800 w-full shadow">Kostenloses Erstgespräch erhalten</a>
+                <a href ="https://calendly.com/tilltech/kostenloses-seo-gesprach" class="btn-sm text-zinc-100 bg-zinc-900 hover:bg-zinc-800 w-full shadow">Gratis Erstgespräch erhalten</a>
 
               </li>
             </ul>
