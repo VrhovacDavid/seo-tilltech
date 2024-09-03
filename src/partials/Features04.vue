@@ -52,7 +52,7 @@ const tab = ref('1')
                                 leave-from-class="opacity-100 translate-x-0" leave-to-class="opacity-0 -translate-x-8">
                                 <div class="w-full" v-show="tab === '1'">
                                     <div>
-                                        <img class="lg:max-w-none mx-auto rounded-lg shadow-2xl"
+                                        <img class="lg:max-w-none mx-auto rounded-lg shadow-2xl shadow-violet-200"
                                             src="/images/YouTubeTut.webp" width="800" height="620"
                                             alt="Carousel 01" />
                                     </div>

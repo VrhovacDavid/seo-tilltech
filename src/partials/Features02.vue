@@ -78,7 +78,7 @@
             </div>
             <figure>
               <img class="h-[280px] object-cover object-left mx-auto sm:object-contain sm:h-auto"
-                src="/images/feature-post-04.png" width="342" height="280" alt="Feature Post 04">
+                src="/images/Envelope.webp" width="342" height="280" alt="Feature Post 04">
             </figure>
           </article>
           <article
@@ -96,7 +96,7 @@
             </div>
             <figure>
               <img class="h-[280px] object-cover object-left mx-auto sm:object-contain sm:h-auto"
-                src="/images/feature-post-05.png" width="342" height="280" alt="Feature Post 05">
+                src="/images/Text.webp" width="342" height="280" alt="Feature Post 05">
             </figure>
           </article>
         </div>
