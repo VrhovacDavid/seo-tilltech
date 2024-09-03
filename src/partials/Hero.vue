@@ -32,7 +32,7 @@ import Stats from './Stats.vue'
               class="max-w-xs mx-auto sm:max-w-none sm:inline-flex sm:justify-center space-y-4 sm:space-y-0 sm:space-x-4">
               <div>
                 <a class="btn text-zinc-100 bg-zinc-900 hover:bg-zinc-800 w-full shadow"
-                  href="https://calendly.com/tilltech/kostenloses-seo-gesprach">Kostenloses Erstgespräch erhalten</a>
+                  href="https://calendly.com/tilltech/kostenloses-seo-gesprach" onclick="return gtag_report_conversion(this.href)">Kostenloses Erstgespräch erhalten</a>
               </div>
               <div>
                 <a class="btn text-zinc-600 bg-white hover:text-zinc-900 w-full shadow" href="/#pricing">Angebot</a>

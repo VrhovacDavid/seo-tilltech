@@ -24,7 +24,7 @@
             class="max-w-xs mx-auto sm:max-w-none sm:inline-flex sm:justify-center space-y-4 sm:space-y-0 sm:space-x-4">
             <div>
               <a class="btn text-gray-100 bg-gray-900 hover:bg-gray-800 w-full shadow"
-                href="https://calendly.com/tilltech/kostenloses-seo-gesprach">Kostenloses
+                href="https://calendly.com/tilltech/kostenloses-seo-gesprach" onclick="return gtag_report_conversion(this.href)">Kostenloses
                 Erstgespräch</a>
             </div>
             <div>

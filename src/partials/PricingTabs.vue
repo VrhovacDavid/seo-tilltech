@@ -188,8 +188,8 @@ const faqs = [
                   </ul>
                 </div>
                 <div class="mt-8">
-                  <a class="btn text-zinc-100 bg-gradient-to-r from-zinc-700 to-zinc-900 hover:from-zinc-900 hover:to-zinc-900 w-full shadow"
-                    href="https://buy.stripe.com/14k01r9rY4WX6iYdR6">
+                  <a class="btn text-zinc-100 bg-gradient-to-r from-zinc-700 to-zinc-900 hover:from-zinc-900 hover:to-zinc-900 w-full shadow" 
+                    href="https://buy.stripe.com/14k01r9rY4WX6iYdR6" onclick="return gtagSendEvent(this.href)">
                     Jetzt Starten
                   </a>
                 </div>
@@ -279,7 +279,7 @@ const faqs = [
                 </div>
                 <div class="mt-8">
                   <a class="btn text-zinc-600 bg-white hover:text-zinc-900 w-full shadow"
-                    href="https://buy.stripe.com/4gw5lLaw2611ePu4gu">
+                    href="https://buy.stripe.com/4gw5lLaw2611ePu4gu" onclick="return gtagSendEvent(this.href)">
                     Jetzt Starten
                   </a>
                 </div>
@@ -377,7 +377,7 @@ const faqs = [
                 </div>
                 <div class="mt-8">
                   <a class="btn text-zinc-100 bg-gradient-to-r from-zinc-700 to-zinc-900 hover:from-zinc-900 hover:to-zinc-900 w-full shadow"
-                    href="https://buy.stripe.com/14k4hHaw21KL7n200f">
+                    href="https://buy.stripe.com/14k4hHaw21KL7n200f" onclick="return gtagSendEvent(this.href)">
                     Jetzt Starten
                   </a>
                 </div>

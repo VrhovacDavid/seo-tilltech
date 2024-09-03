@@ -22,7 +22,7 @@
 
               </li>
               <li class="ml-1">
-                <a href ="https://calendly.com/tilltech/kostenloses-seo-gesprach" class="btn-sm text-zinc-100 bg-zinc-900 hover:bg-zinc-800 w-full shadow">Gratis Termin buchen</a>
+                <a href ="https://calendly.com/tilltech/kostenloses-seo-gesprach" class="btn-sm text-zinc-100 bg-zinc-900 hover:bg-zinc-800 w-full shadow" onclick="return gtag_report_conversion(this.href)">Gratis Termin buchen</a>
 
               </li>
             </ul>
